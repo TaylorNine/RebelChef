@@ -1,0 +1,14 @@
+{
+  "name": "2.4_static",
+  "version": "1.0.0",
+  "description": "Static version of a coming soon page for www.rebelchefmn.com. This will later be converted into a Wordpress theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap4"
+  ],
+  "author": "Taylor Fedt",
+  "license": "ISC"
+}
